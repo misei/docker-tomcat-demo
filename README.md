@@ -1,5 +1,3 @@
-# docker-tomcat-demo
-
 # Tomcat Docker Demo
 
 Simple Tomcat container with a custom landing page.
